@@ -9,7 +9,7 @@ na Udemy
 ## Conteúdo do curso
 
 1. ~~Introdução~~
-2. Entendendo o nosso Domínio!
+2. ~~Entendendo o nosso Domínio!~~
 3. Introdução ao NestJS com a implementação da entidade Jogadores
 4. Persistência de dados com MongoDB e Mongoose - Entidade Jogadores
 5. Validação de dados e Tratamento de Exceções - Entidade Jogadores
